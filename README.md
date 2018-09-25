@@ -1,2 +1,3 @@
 # hello-world
-First GitHub'repository
+First GitHub repository
+This is my first GitHub Master' modifications
